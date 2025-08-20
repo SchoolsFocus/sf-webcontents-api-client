@@ -1,5 +1,5 @@
 {
-    "name": "focusprecious/sf-webcontents-api-client",
+    "name": "schoolsfocus/sf-webcontents-api-client",
     "description": "A PHP client for interacting with the SchoolsFocus Webcontents API, providing methods to fetch website content, events, media, system data, and website menu.",
     "type": "library",
     "require": {
@@ -17,6 +17,8 @@
             "email": "dev-support@schoolsfocus.net"
         }
     ],
+    "homepage": "https://github.com/SchoolsFocus/sf-webcontents-api-client",
+    "repository": "https://github.com/SchoolsFocus/sf-webcontents-api-client",
     "minimum-stability": "stable",
     "prefer-stable": true
 }

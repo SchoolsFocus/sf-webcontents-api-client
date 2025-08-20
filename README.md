@@ -9,7 +9,7 @@ The `sf-webcontents-api-client` is a PHP package designed to provide a simple an
 To install the `sf-webcontents-api-client`, you can use Composer. Run the following command in your terminal:
 
 ```bash
-composer require sf-webcontents-api-client
+composer require schoolsfocus/sf-webcontents-api-client
 ```
 
 ## Usage
