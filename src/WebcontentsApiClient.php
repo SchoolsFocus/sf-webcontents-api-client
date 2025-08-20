@@ -1,5 +1,5 @@
 <?php
-namespace SfWebcontentsApiClient;
+namespace schoolsfocus\SfWebcontentsApiClient;
 
 use CurlHandle;
 
