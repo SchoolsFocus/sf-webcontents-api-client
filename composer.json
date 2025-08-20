@@ -1,0 +1,22 @@
+{
+    "name": "focusprecious/sf-webcontents-api-client",
+    "description": "A PHP client for interacting with the SchoolsFocus Webcontents API, providing methods to fetch website content, events, media, system data, and website menu.",
+    "type": "library",
+    "require": {
+        "php": ">=7.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "SfWebcontentsApiClient\\": "src/"
+        }
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "SchoolsFocus Team",
+            "email": "dev-support@schoolsfocus.net"
+        }
+    ],
+    "minimum-stability": "stable",
+    "prefer-stable": true
+}
