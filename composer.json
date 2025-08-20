@@ -7,7 +7,7 @@
     },
     "autoload": {
         "psr-4": {
-            "SfWebcontentsApiClient\\": "src/"
+            "schoolsfocus\\SfWebcontentsApiClient\\": "src/"
         }
     },
     "license": "MIT",
@@ -19,6 +19,5 @@
     ],
     "homepage": "https://github.com/SchoolsFocus/sf-webcontents-api-client",
     "repository": "https://github.com/SchoolsFocus/sf-webcontents-api-client",
-    "minimum-stability": "stable",
-    "prefer-stable": true
+    "minimum-stability": "stable"
 }
